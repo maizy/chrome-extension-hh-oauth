@@ -9,8 +9,8 @@ var params = {
   'authorize_url' : 'https://hh.ru/oauth/authorize',
   'get_token_url' : 'https://hh.ru/oauth/token',
   // register your app on https://dev.hh.ru/
-  'client_id' : '',
-  'client_secret' : ''
+  'client_id' : 'U3GT3O9RB94E87UQAS9T0JUKL5N6CBO7TREPR1SGVO0BIRCDL5TPTFC3KSQRQ25I',
+  'client_secret' : 'TVTCE50BQGPCBD6J2ARTNGLL2DBLNPGPJCPQ3AAH0K2NF2RSS2VO57ROLVM6VU15'
 };
 
 var oauthProvider = new oAuth(params);

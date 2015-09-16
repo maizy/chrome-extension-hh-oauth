@@ -1,4 +1,4 @@
-# Sample chrome extension with HeahHunter oAuth authorization
+# Sample chrome extension with HeadHunter oAuth authorization
 
 Inspired by https://developer.chrome.com/extensions/samples#search:oauth
 
