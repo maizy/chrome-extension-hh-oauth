@@ -1,0 +1,22 @@
+{
+  "name": "Sample - Headhunter OAuth",
+  "version": "1.0.6",
+  "icons": { "48": "img/icon-48.png",
+            "128": "img/icon-128.png" },
+  "description": "Uses OAuth to connect to HeahHunter api",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "browser_action": {
+    "default_title": "",
+    "default_icon": "img/icon-19.png"
+  },
+  "permissions": [
+    "tabs",
+    "https://hh.ru/oauth/*",
+    "https://hh.ru/account/*"
+  ],
+  "manifest_version": 2
+}
