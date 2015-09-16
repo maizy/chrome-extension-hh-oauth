@@ -18,5 +18,9 @@
     "https://hh.ru/oauth/*",
     "https://hh.ru/account/*"
   ],
+  "web_accessible_resources": [
+    "oauth-callback.html",
+    "oauth-callback.js"
+  ],
   "manifest_version": 2
 }
