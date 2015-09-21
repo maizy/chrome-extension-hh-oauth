@@ -1,9 +1,9 @@
 {
   "name": "Sample - Headhunter OAuth",
-  "version": "1.0.6",
+  "version": "0.0.1",
   "icons": { "48": "img/icon-48.png",
             "128": "img/icon-128.png" },
-  "description": "Uses OAuth to connect to HeahHunter api",
+  "description": "Uses OAuth to connect to HeadHunter api",
   "background": {
     "scripts": [
       "background.js"
